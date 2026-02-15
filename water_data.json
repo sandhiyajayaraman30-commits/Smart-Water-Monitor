@@ -1,0 +1,476 @@
+[
+    {
+        "deviceId": "sim-water-meter",
+        "flowRate": 0.84,
+        "totalUsage": 151,
+        "timestamp": "2026-02-12 19:44:43"
+    },
+    {
+        "deviceId": "sim-water-meter",
+        "flowRate": 1.54,
+        "totalUsage": 57,
+        "timestamp": "2026-02-12 19:44:48"
+    },
+    {
+        "deviceId": "sim-water-meter",
+        "flowRate": 0.22,
+        "totalUsage": 165,
+        "timestamp": "2026-02-12 19:44:53"
+    },
+    {
+        "deviceId": "sim-water-meter",
+        "flowRate": 1.0,
+        "totalUsage": 80,
+        "timestamp": "2026-02-12 19:44:58"
+    },
+    {
+        "deviceId": "sim-water-meter",
+        "flowRate": 0.73,
+        "totalUsage": 176,
+        "timestamp": "2026-02-12 19:45:03"
+    },
+    {
+        "deviceId": "sim-water-meter",
+        "flowRate": 0.73,
+        "totalUsage": 188,
+        "timestamp": "2026-02-12 19:45:09"
+    },
+    {
+        "deviceId": "sim-water-meter",
+        "flowRate": 1.59,
+        "totalUsage": 56,
+        "timestamp": "2026-02-12 19:45:14"
+    },
+    {
+        "deviceId": "sim-water-meter",
+        "flowRate": 1.23,
+        "totalUsage": 298,
+        "timestamp": "2026-02-12 19:45:19"
+    },
+    {
+        "deviceId": "sim-water-meter",
+        "flowRate": 1.39,
+        "totalUsage": 232,
+        "timestamp": "2026-02-12 19:45:24"
+    },
+    {
+        "deviceId": "sim-water-meter",
+        "flowRate": 1.5,
+        "totalUsage": 277,
+        "timestamp": "2026-02-12 19:45:29"
+    },
+    {
+        "deviceId": "sim-water-meter",
+        "flowRate": 1.03,
+        "totalUsage": 85,
+        "timestamp": "2026-02-12 19:45:34"
+    },
+    {
+        "deviceId": "sim-water-meter",
+        "flowRate": 1.71,
+        "totalUsage": 173,
+        "timestamp": "2026-02-12 19:45:39"
+    },
+    {
+        "deviceId": "sim-water-meter",
+        "flowRate": 0.11,
+        "totalUsage": 80,
+        "timestamp": "2026-02-12 19:45:44"
+    },
+    {
+        "deviceId": "sim-water-meter",
+        "flowRate": 0.67,
+        "totalUsage": 305,
+        "timestamp": "2026-02-12 19:45:49"
+    },
+    {
+        "deviceId": "sim-water-meter",
+        "flowRate": 1.81,
+        "totalUsage": 315,
+        "timestamp": "2026-02-12 19:45:54"
+    },
+    {
+        "deviceId": "sim-water-meter",
+        "flowRate": 0.3,
+        "totalUsage": 168,
+        "timestamp": "2026-02-12 19:45:59"
+    },
+    {
+        "deviceId": "sim-water-meter",
+        "flowRate": 0.23,
+        "totalUsage": 141,
+        "timestamp": "2026-02-12 19:46:04"
+    },
+    {
+        "deviceId": "sim-water-meter",
+        "flowRate": 1.3,
+        "totalUsage": 314,
+        "timestamp": "2026-02-12 19:46:09"
+    },
+    {
+        "deviceId": "sim-water-meter",
+        "flowRate": 1.8,
+        "totalUsage": 346,
+        "timestamp": "2026-02-12 19:46:14"
+    },
+    {
+        "deviceId": "sim-water-meter",
+        "flowRate": 1.68,
+        "totalUsage": 158,
+        "timestamp": "2026-02-12 19:46:19"
+    },
+    {
+        "deviceId": "sim-water-meter",
+        "flowRate": 1.39,
+        "totalUsage": 155,
+        "timestamp": "2026-02-12 19:46:24"
+    },
+    {
+        "deviceId": "sim-water-meter",
+        "flowRate": 1.43,
+        "totalUsage": 300,
+        "timestamp": "2026-02-12 19:46:29"
+    },
+    {
+        "deviceId": "sim-water-meter",
+        "flowRate": 0.67,
+        "totalUsage": 256,
+        "timestamp": "2026-02-12 19:46:34"
+    },
+    {
+        "deviceId": "sim-water-meter",
+        "flowRate": 1.41,
+        "totalUsage": 342,
+        "timestamp": "2026-02-12 19:46:39"
+    },
+    {
+        "deviceId": "sim-water-meter",
+        "flowRate": 0.2,
+        "totalUsage": 178,
+        "timestamp": "2026-02-12 19:46:44"
+    },
+    {
+        "deviceId": "sim-water-meter",
+        "flowRate": 1.68,
+        "totalUsage": 69,
+        "timestamp": "2026-02-12 19:46:49"
+    },
+    {
+        "deviceId": "sim-water-meter",
+        "flowRate": 1.92,
+        "totalUsage": 308,
+        "timestamp": "2026-02-12 19:46:54"
+    },
+    {
+        "deviceId": "sim-water-meter",
+        "flowRate": 1.16,
+        "totalUsage": 165,
+        "timestamp": "2026-02-12 19:46:59"
+    },
+    {
+        "deviceId": "sim-water-meter",
+        "flowRate": 0.48,
+        "totalUsage": 182,
+        "timestamp": "2026-02-12 19:47:04"
+    },
+    {
+        "deviceId": "sim-water-meter",
+        "flowRate": 1.69,
+        "totalUsage": 208,
+        "timestamp": "2026-02-12 19:47:09"
+    },
+    {
+        "deviceId": "sim-water-meter",
+        "flowRate": 1.84,
+        "totalUsage": 193,
+        "timestamp": "2026-02-12 19:47:14"
+    },
+    {
+        "deviceId": "sim-water-meter",
+        "flowRate": 1.73,
+        "totalUsage": 86,
+        "timestamp": "2026-02-12 19:47:19"
+    },
+    {
+        "deviceId": "sim-water-meter",
+        "flowRate": 1.41,
+        "totalUsage": 335,
+        "timestamp": "2026-02-12 19:47:24"
+    },
+    {
+        "deviceId": "sim-water-meter",
+        "flowRate": 1.59,
+        "totalUsage": 100,
+        "timestamp": "2026-02-12 19:47:29"
+    },
+    {
+        "deviceId": "sim-water-meter",
+        "flowRate": 0.3,
+        "totalUsage": 91,
+        "timestamp": "2026-02-12 19:47:34"
+    },
+    {
+        "deviceId": "sim-water-meter",
+        "flowRate": 0.29,
+        "totalUsage": 266,
+        "timestamp": "2026-02-12 19:47:39"
+    },
+    {
+        "deviceId": "sim-water-meter",
+        "flowRate": 0.77,
+        "totalUsage": 279,
+        "timestamp": "2026-02-12 19:47:44"
+    },
+    {
+        "deviceId": "sim-water-meter",
+        "flowRate": 1.59,
+        "totalUsage": 77,
+        "timestamp": "2026-02-12 19:47:49"
+    },
+    {
+        "deviceId": "sim-water-meter",
+        "flowRate": 1.38,
+        "totalUsage": 341,
+        "timestamp": "2026-02-12 19:47:54"
+    },
+    {
+        "deviceId": "sim-water-meter",
+        "flowRate": 0.53,
+        "totalUsage": 305,
+        "timestamp": "2026-02-12 19:47:59"
+    },
+    {
+        "deviceId": "sim-water-meter",
+        "flowRate": 0.37,
+        "totalUsage": 135,
+        "timestamp": "2026-02-12 19:48:04"
+    },
+    {
+        "deviceId": "sim-water-meter",
+        "flowRate": 1.49,
+        "totalUsage": 57,
+        "timestamp": "2026-02-12 19:48:09"
+    },
+    {
+        "deviceId": "sim-water-meter",
+        "flowRate": 1.34,
+        "totalUsage": 209,
+        "timestamp": "2026-02-12 19:48:14"
+    },
+    {
+        "deviceId": "sim-water-meter",
+        "flowRate": 0.86,
+        "totalUsage": 95,
+        "timestamp": "2026-02-12 19:48:19"
+    },
+    {
+        "deviceId": "sim-water-meter",
+        "flowRate": 1.44,
+        "totalUsage": 209,
+        "timestamp": "2026-02-12 19:48:24"
+    },
+    {
+        "deviceId": "sim-water-meter",
+        "flowRate": 1.57,
+        "totalUsage": 168,
+        "timestamp": "2026-02-12 19:48:29"
+    },
+    {
+        "deviceId": "sim-water-meter",
+        "flowRate": 1.56,
+        "totalUsage": 60,
+        "timestamp": "2026-02-12 19:48:34"
+    },
+    {
+        "deviceId": "sim-water-meter",
+        "flowRate": 1.91,
+        "totalUsage": 200,
+        "timestamp": "2026-02-12 19:48:39"
+    },
+    {
+        "deviceId": "sim-water-meter",
+        "flowRate": 1.96,
+        "totalUsage": 84,
+        "timestamp": "2026-02-12 19:48:44"
+    },
+    {
+        "deviceId": "sim-water-meter",
+        "flowRate": 0.72,
+        "totalUsage": 277,
+        "timestamp": "2026-02-12 19:48:49"
+    },
+    {
+        "deviceId": "sim-water-meter",
+        "flowRate": 0.81,
+        "totalUsage": 315,
+        "timestamp": "2026-02-12 19:48:54"
+    },
+    {
+        "deviceId": "sim-water-meter",
+        "flowRate": 1.67,
+        "totalUsage": 269,
+        "timestamp": "2026-02-12 19:48:59"
+    },
+    {
+        "deviceId": "sim-water-meter",
+        "flowRate": 1.83,
+        "totalUsage": 163,
+        "timestamp": "2026-02-12 19:49:04"
+    },
+    {
+        "deviceId": "sim-water-meter",
+        "flowRate": 1.32,
+        "totalUsage": 57,
+        "timestamp": "2026-02-12 19:49:09"
+    },
+    {
+        "deviceId": "sim-water-meter",
+        "flowRate": 0.58,
+        "totalUsage": 56,
+        "timestamp": "2026-02-12 19:49:14"
+    },
+    {
+        "deviceId": "sim-water-meter",
+        "flowRate": 1.87,
+        "totalUsage": 44,
+        "timestamp": "2026-02-12 19:49:19"
+    },
+    {
+        "deviceId": "sim-water-meter",
+        "flowRate": 0.11,
+        "totalUsage": 146,
+        "timestamp": "2026-02-12 19:49:24"
+    },
+    {
+        "deviceId": "sim-water-meter",
+        "flowRate": 1.51,
+        "totalUsage": 107,
+        "timestamp": "2026-02-12 19:49:29"
+    },
+    {
+        "deviceId": "sim-water-meter",
+        "flowRate": 0.93,
+        "totalUsage": 268,
+        "timestamp": "2026-02-12 19:49:34"
+    },
+    {
+        "deviceId": "sim-water-meter",
+        "flowRate": 1.68,
+        "totalUsage": 321,
+        "timestamp": "2026-02-12 19:49:39"
+    },
+    {
+        "deviceId": "sim-water-meter",
+        "flowRate": 1.42,
+        "totalUsage": 205,
+        "timestamp": "2026-02-12 19:49:44"
+    },
+    {
+        "deviceId": "sim-water-meter",
+        "flowRate": 0.46,
+        "totalUsage": 36,
+        "timestamp": "2026-02-12 19:49:49"
+    },
+    {
+        "deviceId": "sim-water-meter",
+        "flowRate": 1.11,
+        "totalUsage": 242,
+        "timestamp": "2026-02-12 19:49:54"
+    },
+    {
+        "deviceId": "sim-water-meter",
+        "flowRate": 1.3,
+        "totalUsage": 126,
+        "timestamp": "2026-02-12 19:49:59"
+    },
+    {
+        "deviceId": "sim-water-meter",
+        "flowRate": 1.65,
+        "totalUsage": 344,
+        "timestamp": "2026-02-12 19:50:04"
+    },
+    {
+        "deviceId": "sim-water-meter",
+        "flowRate": 0.56,
+        "totalUsage": 191,
+        "timestamp": "2026-02-12 19:50:09"
+    },
+    {
+        "deviceId": "sim-water-meter",
+        "flowRate": 0.62,
+        "totalUsage": 183,
+        "timestamp": "2026-02-12 19:51:59"
+    },
+    {
+        "deviceId": "sim-water-meter",
+        "flowRate": 1.15,
+        "totalUsage": 107,
+        "timestamp": "2026-02-12 19:52:04"
+    },
+    {
+        "deviceId": "sim-water-meter",
+        "flowRate": 1.87,
+        "totalUsage": 153,
+        "timestamp": "2026-02-12 19:52:09"
+    },
+    {
+        "deviceId": "sim-water-meter",
+        "flowRate": 1.59,
+        "totalUsage": 191,
+        "timestamp": "2026-02-12 19:52:14"
+    },
+    {
+        "deviceId": "sim-water-meter",
+        "flowRate": 0.72,
+        "totalUsage": 102,
+        "timestamp": "2026-02-12 19:52:19"
+    },
+    {
+        "deviceId": "sim-water-meter",
+        "flowRate": 0.64,
+        "totalUsage": 170,
+        "timestamp": "2026-02-12 19:52:24"
+    },
+    {
+        "deviceId": "sim-water-meter",
+        "flowRate": 1.75,
+        "totalUsage": 185,
+        "timestamp": "2026-02-12 19:52:29"
+    },
+    {
+        "deviceId": "sim-water-meter",
+        "flowRate": 1.18,
+        "totalUsage": 61,
+        "timestamp": "2026-02-12 19:52:34"
+    },
+    {
+        "deviceId": "sim-water-meter",
+        "flowRate": 0.76,
+        "totalUsage": 225,
+        "timestamp": "2026-02-12 19:52:39"
+    },
+    {
+        "deviceId": "sim-water-meter",
+        "flowRate": 0.56,
+        "totalUsage": 77,
+        "timestamp": "2026-02-12 19:52:44"
+    },
+    {
+        "deviceId": "sim-water-meter",
+        "flowRate": 1.02,
+        "totalUsage": 107,
+        "timestamp": "2026-02-12 19:52:49"
+    },
+    {
+        "deviceId": "sim-water-meter",
+        "flowRate": 1.14,
+        "totalUsage": 110,
+        "timestamp": "2026-02-12 19:52:54"
+    },
+    {
+        "deviceId": "sim-water-meter",
+        "flowRate": 0.46,
+        "totalUsage": 169,
+        "timestamp": "2026-02-12 19:52:59"
+    }
+]
